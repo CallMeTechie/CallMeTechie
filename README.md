@@ -15,24 +15,37 @@ I like clean code, well-thought-out self-hosting setups, and tools that take wor
 
 ---
 
-### 🏭 By day: the Fuji NXT-R
+### 🏭 By day: the heart of the Fuji NXT-R
 
 <table>
 <tr>
 <td width="46%"><img src="NXT-R.png" alt="Fuji NXT-R modular SMT placement machine"></td>
 <td valign="middle">
 
-The machine I look after at Fuji: the **NXT-R**, Fuji's modular
-surface-mount (SMT) placement platform. It picks thousands of tiny
-components per hour and places them onto circuit boards with
-sub-millimetre precision.
+I don't build the machines — I keep their heart beating. My specialty is the
+**placement heads** of Fuji's **NXT-R**, the modular surface-mount (SMT)
+platform that places thousands of tiny components per hour onto circuit
+boards with sub-millimetre precision.
 
-Its module-based design lets production lines scale and reconfigure
-fast, while smart self-check routines keep downtime to a minimum.
-Installing, maintaining and troubleshooting these is my day job —
-and the reason I have a soft spot for well-engineered automation.
+I **maintain and repair the RH-series heads**: the precision units that pick
+up components and set them down at high speed. Mechanics, pneumatics, optics
+and electronics packed into one tight assembly.
+
+> 💬 There's something deeply satisfying about stripping a worn, failing head
+> down to the last nozzle, hunting down the fault, and handing back a unit that
+> runs like new. That's my kind of puzzle.
 
 </td>
+</tr>
+</table>
+
+#### The heads I work on
+
+<table>
+<tr>
+<td align="center" width="33%"><img src="RH02_1.png" alt="Fuji RH02 placement head" width="190"><br><strong>RH02</strong><br><sub>2 nozzles · larger components</sub></td>
+<td align="center" width="33%"><img src="RH08_1.png" alt="Fuji RH08 placement head" width="190"><br><strong>RH08</strong><br><sub>8 nozzles · the all-rounder</sub></td>
+<td align="center" width="33%"><img src="RH20_01.png" alt="Fuji RH20 placement head" width="190"><br><strong>RH20</strong><br><sub>20 nozzles · high-speed chip placement</sub></td>
 </tr>
 </table>
 
