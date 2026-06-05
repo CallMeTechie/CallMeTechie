@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="NXT-R.png" alt="Fuji NXT-R SMT placement machine" width="820">
+</p>
+
 <h1 align="center">Hi, I'm CallMeTechie 👋</h1>
 <p align="center"><em>Service Engineer @ Fuji Europe &nbsp;·&nbsp; Web developer by night</em></p>
 
