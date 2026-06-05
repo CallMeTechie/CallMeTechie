@@ -98,6 +98,7 @@ solution that people actually use every day.
 ### 📫 Get in touch
 
 [![Website](https://img.shields.io/badge/Website-callmetechie.de-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://callmetechie.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc_Backes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-backes/)
 [![GitHub](https://img.shields.io/badge/GitHub-CallMeTechie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CallMeTechie)
 
 <p align="center"><em>Whether it's a placement head or a piece of software — I take it apart, understand it, and make it run the way it should.</em></p>
