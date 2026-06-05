@@ -1,17 +1,23 @@
 <h1 align="center">Hi, I'm CallMeTechie 👋</h1>
-<p align="center"><em>Service Engineer @ Fuji Europe &nbsp;·&nbsp; Web developer by night</em></p>
+<p align="center"><em>Service Engineer @ Fuji Europe &nbsp;·&nbsp; I build the software that makes our shop floor easier</em></p>
 
 ---
 
 ### 🧑‍💻 About me
 
-By day I keep machines running as a Service Engineer at **Fuji Europe** —
-by night I build web apps for my homelab and small private projects.
-I like clean code, well-thought-out self-hosting setups, and tools that take work off my hands.
+By day I'm a Service Engineer at **Fuji Europe**, specialised in the placement
+heads of the NXT & NXT-R SMT machines. The other half of me is a **developer** —
+and I put both together: I write the software that solves the everyday problems
+I run into at work, building tools that make the shop floor faster, smoother and
+a lot more comfortable for me and my colleagues.
 
-- 🔧 Focus: web apps, automation & homelab infrastructure
-- 🌍 Working in both German & English
+Off the clock, that same itch goes into web apps, homelab tooling and
+self-hosted projects.
+
+- 💻 I build real solutions, not just demos — internal tools, web apps & plugins
+- 🔧 Bridging hardware service and software, day to day
 - 🏡 Self-hosting enthusiast (Synology, Docker, my own services)
+- 🌍 Working in both German & English
 
 ---
 
@@ -44,7 +50,21 @@ of them.
 
 ---
 
+### 💡 Software for the shop floor
+
+Servicing SMT machines all day means I know exactly where the friction is — so I
+build software to take it away. Internal tools and small apps that handle the
+repetitive, fiddly parts of the job and bring a bit more comfort to the daily
+routine, for me and the colleagues I work alongside.
+
+That's the part I enjoy most: turning a real, hands-on problem into a clean
+solution that people actually use every day.
+
+---
+
 ### 🛠️ Tech Stack
+
+**Languages &amp; Frameworks**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -52,6 +72,8 @@ of them.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Infrastructure &amp; DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -77,5 +99,7 @@ of them.
 
 [![Website](https://img.shields.io/badge/Website-callmetechie.de-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://callmetechie.de)
 [![GitHub](https://img.shields.io/badge/GitHub-CallMeTechie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CallMeTechie)
+
+<p align="center"><em>Whether it's a placement head or a piece of software — I take it apart, understand it, and make it run the way it should.</em></p>
 
 <sub>⚙️ Always tinkering — there's always something running in a Docker container around here.</sub>
