@@ -35,20 +35,10 @@ electronics packed into one tight assembly, and I know my way around all
 of them.
 
 > 💬 There's something deeply satisfying about stripping a worn, failing head
-> down to the last Nozzle, hunting down the fault, and handing back a unit
+> down to the last screw, hunting down the fault, and handing back a unit
 > that runs like new. That's my kind of puzzle.
 
 </td>
-</tr>
-</table>
-
-#### A few of the heads I work on
-
-<table>
-<tr>
-<td align="center" width="33%"><img src="RH02_1.png" alt="Fuji RH02 placement head" width="190"><br><strong>RH02</strong><br><sub>2 Nozzles · larger components</sub></td>
-<td align="center" width="33%"><img src="RH08_1.png" alt="Fuji RH08 placement head" width="190"><br><strong>RH08</strong><br><sub>8 Nozzles · the all-rounder</sub></td>
-<td align="center" width="33%"><img src="RH20_01.png" alt="Fuji RH20 placement head" width="190"><br><strong>RH20</strong><br><sub>20 Nozzles · high-speed chip placement</sub></td>
 </tr>
 </table>
 
