@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="NXT-R.png" alt="Fuji NXT-R SMT placement machine" width="820">
-</p>
-
 <h1 align="center">Hi, I'm CallMeTechie 👋</h1>
 <p align="center"><em>Service Engineer @ Fuji Europe &nbsp;·&nbsp; Web developer by night</em></p>
 
@@ -16,6 +12,29 @@ I like clean code, well-thought-out self-hosting setups, and tools that take wor
 - 🔧 Focus: web apps, automation & homelab infrastructure
 - 🌍 Working in both German & English
 - 🏡 Self-hosting enthusiast (Synology, Docker, my own services)
+
+---
+
+### 🏭 By day: the Fuji NXT-R
+
+<table>
+<tr>
+<td width="46%"><img src="NXT-R.png" alt="Fuji NXT-R modular SMT placement machine"></td>
+<td valign="middle">
+
+The machine I look after at Fuji: the **NXT-R**, Fuji's modular
+surface-mount (SMT) placement platform. It picks thousands of tiny
+components per hour and places them onto circuit boards with
+sub-millimetre precision.
+
+Its module-based design lets production lines scale and reconfigure
+fast, while smart self-check routines keep downtime to a minimum.
+Installing, maintaining and troubleshooting these is my day job —
+and the reason I have a soft spot for well-engineered automation.
+
+</td>
+</tr>
+</table>
 
 ---
 
